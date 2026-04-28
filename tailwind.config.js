@@ -7,7 +7,7 @@ tailwind.config = {
                 display: ['ClashGrotesk','sans-serif'],
             },
             colors: {
-                primary: '#FFBC5E',
+                primary: '#ff9d14',
                 'primary-dark': '#E5A54D',
                 cream: '#FCF8F4',
                 'gray-50': '#FAFAFA',
